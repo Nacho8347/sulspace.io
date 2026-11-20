@@ -1,0 +1,25 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Sully's Space"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Sully's Space: IT consulting for systems and networks."
+
+[params.author]
+  name = "Sully S."
+  image = "img/avatar.webp"
+  headline = "IT Consultant · Systems & Networks"
+  bio = "IT Consultant · Systems & Networks"
+  links = [
+    { signal = "/posts/contact/#signal" },
+    { email = "mailto:contact@sulspace.io" },
+    { linkedin = "https://www.linkedin.com/in/sully-s-5ab394401" },
+    { github = "https://github.com/Nacho8347" },
+    { pgpkey = "/sully.asc" },
+  ]

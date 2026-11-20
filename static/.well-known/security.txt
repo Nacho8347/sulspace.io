@@ -1,0 +1,16 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:contact@sulspace.io
+Expires: 2027-11-20T00:00:00.000Z
+Encryption: https://sulspace.io/.well-known/pgp-key.txt
+Preferred-Languages: en
+Canonical: https://sulspace.io/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iKYEARYKAE4WIQR0gsKYwC6tJg4kxx236MRNQs8bhQUCav/sPhsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwyLDEUHGNvbnRhY3RAc3Vsc3BhY2UuaW8ACgkQt+jETULP
+G4UomAD9GO3UEzbCsZZMF6ylUrl1Gmp6bInaKNdbU8d3u+3PfLIA/iKL7E09G02O
+zLnCx7526Xg7Mmfj2v3VaS8b25PVdkgJ
+=kZ4u
+-----END PGP SIGNATURE-----

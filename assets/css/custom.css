@@ -1,0 +1,9 @@
+#search-button {
+  border: 0;
+  background: transparent;
+  padding: 0;
+}
+
+#search-shortcut-hint {
+  display: none;
+}

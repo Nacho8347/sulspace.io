@@ -1,0 +1,18 @@
+[[headers]]
+  for = '/sully.asc'
+  [headers.values]
+    Content-Disposition = 'attachment; filename="sully.asc"'
+
+[[headers]]
+  for = '/**'
+  [headers.values]
+    Content-Security-Policy = "default-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; connect-src 'self'; img-src 'self' data:; manifest-src 'self'; script-src 'self' 'unsafe-inline'; script-src-elem 'self' 'unsafe-inline'; script-src-attr 'unsafe-inline'; style-src 'self' 'unsafe-inline'"
+    Cross-Origin-Embedder-Policy = 'require-corp'
+    Cross-Origin-Opener-Policy = 'same-origin'
+    Cross-Origin-Resource-Policy = 'same-origin'
+    Permissions-Policy = 'accelerometer=(), autoplay=(), bluetooth=(), browsing-topics=(), camera=(), clipboard-read=(), display-capture=(), encrypted-media=(), fullscreen=(), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), publickey-credentials-create=(self), publickey-credentials-get=(self), screen-wake-lock=(), serial=(), sync-xhr=(), usb=(), xr-spatial-tracking=()'
+    Referrer-Policy = 'same-origin'
+    X-Content-Type-Options = 'nosniff'
+    X-Frame-Options = 'DENY'
+    X-Permitted-Cross-Domain-Policies = 'none'
+    X-XSS-Protection = '0'
